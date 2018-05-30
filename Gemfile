@@ -27,7 +27,7 @@ gem 'cloudinary'
 gem 'simple_form'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'jquery-rails'
-gem "twitter-bootstrap-rails", '~> 3.2.0'
+gem 'twitter-bootstrap-rails', :git => 'https://github.com/seyhunak/twitter-bootstrap-rails.git', :branch => 'master'
 gem 'devise-bootstrap-views'
 gem 'devise'
 # Use Redis adapter to run Action Cable in production
